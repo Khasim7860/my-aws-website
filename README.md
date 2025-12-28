@@ -12,7 +12,7 @@ Compute: EC2 Instance (t2.micro / Ubuntu 22.04 LTS)
 
 Web Server: Nginx
 
-Frontend: HTML5, CSS3
+Frontend: HTML, CSS
 
 Terminal/SSH: Git Bash (Windows)
 
